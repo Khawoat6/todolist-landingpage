@@ -107,8 +107,8 @@ h6 {
 }
 
 .section_padding_0_50 {
-    padding-top: 0;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 150px;
 }
 
 img {
@@ -333,7 +333,7 @@ p {
 }
 
 .menu_area .navbar-brand {
-    font-size: 72px;
+    font-size: 30px;
     font-weight: 700;
     color: #fff;
     margin: 0;
@@ -408,7 +408,7 @@ p {
 }
 
 .header_area.sticky .menu_area .navbar-brand {
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .header_area.sticky .menu_area #nav .nav-link {
@@ -425,7 +425,7 @@ p {
 
 .wellcome_area {
     background-image: url(img/bg-img/welcome-bg.png);
-    height: 900px;
+    height: 750px;
     position: relative;
     z-index: 1;
     background-position: bottom center;
@@ -444,10 +444,10 @@ p {
 }
 
 .welcome-thumb {
-    width: 45%;
+    width: 20%;
     position: absolute;
-    bottom: -130px;
-    right: 85px;
+    bottom: -120px;
+    right: 220px;
     z-index: 9;
 }
 
@@ -754,7 +754,7 @@ p {
     background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
     background: -o-linear-gradient(right, #7873ed, #a865e1);
     background: linear-gradient(to left, #7873ed, #a865e1);
-    padding: 180px 0 80px 0;
+    padding: 30px 0 80px 0;
     top: -100px;
 }
 
